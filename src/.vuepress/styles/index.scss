@@ -1,0 +1,12 @@
+// place your custom styles here
+#icp {
+  object-fit: cover;
+  vertical-align: bottom;
+  margin-right: 8px;
+}
+
+@media (min-width: 1440px) {
+  .theme-container.no-sidebar.has-toc .vp-page {
+    padding-inline-end: 0;
+  }
+}
