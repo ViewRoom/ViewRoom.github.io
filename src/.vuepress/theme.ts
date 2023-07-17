@@ -94,21 +94,19 @@ export default hopeTheme({
       // Qzone: "https://example.com",
       // Reddit: "https://example.com",
       // Rss: "https://example.com",
-      Steam: "https://example.com",
+      Steam: "http://error/",
       // Twitter: "https://example.com",
       // Wechat: "https://example.com",
       // Weibo: "https://example.com",
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",
-      Zhihu: "https://example.com",
+      Zhihu: "https://www.zhihu.com/people/meng-xu-69-92",
     },
   },
 
   // 加密
   encrypt: {
-    config: {
-      
-    },
+    config: {},
   },
 
   plugins: {
