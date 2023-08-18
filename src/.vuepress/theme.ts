@@ -48,7 +48,7 @@ export default hopeTheme({
    * 字体图标库
    * "iconfont", "iconify", "fontawesome", "fontawesome-with-brands"
    */
-  iconAssets: "fontawesome",
+  iconAssets: "iconfont",
   /**
    * 主题模式
    * "switch": 在深色模式，浅色模式和自动之间切换 (默认)
